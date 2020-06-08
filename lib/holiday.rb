@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 holiday_hash = {
   :winter => {
@@ -31,7 +31,6 @@ holiday_hash = {
 
 
 all_holidays_with_bbq(holiday_hash)
-
 
 
 
