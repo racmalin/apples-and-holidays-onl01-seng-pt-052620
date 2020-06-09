@@ -30,7 +30,7 @@
 
 
 
-all_holidays_with_bbq(holiday_hash)
+# all_holidays_with_bbq(holiday_hash)
 
 
 
