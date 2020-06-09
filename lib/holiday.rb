@@ -15,7 +15,7 @@
 #     :memorial_day => ["BBQ"]
 #   }
 # }
-#   def all_holidays_with_bbq(holiday_hash)
+  def all_holidays_with_bbq(holiday_hash)
     i=0
     new_holiday = []
       holiday_hash.each do |season, data|
